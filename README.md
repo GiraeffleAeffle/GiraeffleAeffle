@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**GiraeffleAeffle/GiraeffleAeffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![GiraeffleAeffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiraeffleAeffle&theme=dark&show_icons=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
